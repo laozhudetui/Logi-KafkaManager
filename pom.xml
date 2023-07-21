@@ -135,7 +135,7 @@
             <dependency>
                 <groupId>org.apache.kafka</groupId>
                 <artifactId>kafka-clients</artifactId>
-                <version>0.10.2.0</version>
+                <version>3.5.1</version>
             </dependency>
 
             <!-- json -->
